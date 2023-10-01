@@ -7,7 +7,7 @@ Preloading with percentage:
 ![Preloading with percentage](https://i.ibb.co/bRbHRB0/ezgif-com-optimize.gif)
 
 Preloading spinner:
-![Preloading with spinner](https://i.ibb.co/bRbHRB0/ezgif-com-optimize-1.gif)
+![Preloading with spinner](https://i.ibb.co/wRT8P1c/ezgif-com-optimize-1.gif)
 
 ## Project Setup
 
