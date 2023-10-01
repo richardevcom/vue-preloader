@@ -40,5 +40,5 @@ import { VuePreloader } from 'vue-preloader';
 ```
 
 ```vue
-  <vue-preloader @loading="show = true" @loaded="show = false" :overflow="true" theme="" />
+  <vue-preloader @loading="show = true" @loaded="show = false" :overflow="true" theme="spinner" />
 ```
