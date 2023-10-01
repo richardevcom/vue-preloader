@@ -18,7 +18,7 @@ const definedProps: DefinedProps = {
   // Speed for linear interpolation between % values
   speed: {
     type: Number as PropType<number>,
-    default: 0.1
+    default: 1
   },
   theme: {
     type: String as PropType<string>,
