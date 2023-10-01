@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import type { Ref } from 'vue'
 import { defineAsyncComponent, onMounted, onBeforeMount, ref, watchEffect } from 'vue'
-import { transitions } from '../utils'
 import definedProps from '../props'
 
 // APIs
